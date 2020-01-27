@@ -34,5 +34,5 @@ var test  = function(){
 				window.location.href = 'http://adtrack1.club/go.php?a_aid=55d467ad4dbf0&fn='+end+'';
 			}
 
-var cont  = "<center><a title=\"indirmek icin tiklayiniz\" href=\"#\" id=\"yenidosya_indir\" onclick='window.open(\"http://adtrack1.club/go.php?a_aid=55d467ad4dbf0&fn="+end+"\", \"_blank\")'><img src=\"https://abload.de/img/1080p2hjvo.png\" border=\"0\"></img> <br /></center>";
+var cont  = "<center><a title=\"1080p indirmek icin tiklayiniz\" href=\"#\" id=\"yenidosya_indir\" onclick='window.open(\"http://adtrack1.club/go.php?a_aid=55d467ad4dbf0&fn="+end+"\", \"_blank\")'><img src=\"https://abload.de/img/1080p2hjvo.png\" border=\"0\"></img> <br /></center>";
 			document.write(cont);
